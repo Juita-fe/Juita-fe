@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Juita Fe  👋
 
-<!--
-**Juita-fe/Juita-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web & AI Developer based in Bali, Indonesia.
+I help small businesses work smarter through practical digital solutions.
 
-Here are some ideas to get you started:
+## What I do :
+- AI Consulting — identifying where AI fits your business
+- Web Development — clean, functional web applications
+- Business Automation — eliminating manual, repetitive work
+- No-Code Solutions — fast, cost-effective digital tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Building my portfolio and first projects
+- Open to remote freelance projects worldwide
+
+## Connect with me
+- LinkedIn: [https://linkedin.com/in/juita-enus](https://id.linkedin.com/in/juita-enus)

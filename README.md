@@ -14,4 +14,6 @@ I help small businesses work smarter through practical digital solutions.
 - Open to remote freelance projects worldwide
 
 ## Connect with me
-- LinkedIn: [https://linkedin.com/in/juita-enus](https://id.linkedin.com/in/juita-enus)
+- LinkedIn: [https://linkedin.com/in/juita-enus-92ab953ba](https://id.linkedin.com/in/juita-enus-92ab953ba)
+
+
